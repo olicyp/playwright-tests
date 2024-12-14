@@ -1,0 +1,59 @@
+[
+    {
+      "description": "Verify 'Implement user authentication' task in 'To Do' column (Web Application)",
+      "navigation": "Web Application Main web",
+      "column": "To Do (2)Implement",
+      "task": "Implement user authentication",
+      "tags": "Feature"
+    },
+    {
+      "description": "Verify 'Implement user authentication' task in 'To Do' column (Web Application)",
+      "navigation": "Web Application",
+      "column": "To Do (2)Implement",
+      "task": "Implement user authentication",
+      "tags": "High Priority"
+    },
+    {
+      "description": "Verify 'Fix navigation bug' task in 'To Do' column (Web Application)",
+      "navigation": "Web Application",
+      "column": "To Do (2)Implement",
+      "task": "Fix navigation bug",
+      "tags": "Bug"
+    },
+    {
+      "description": "Verify 'Design system updates' task in 'In Progress' column (Web Application)",
+      "navigation": "Web Application",
+      "column": "In Progress (1)Design system",
+      "task": "Design system updates",
+      "tags": "Design"
+    },
+    {
+      "description": "Verify 'Push notification system' task in 'To Do' column (Mobile Application)",
+      "navigation": "Web Application",
+      "column": "To Do (1)Push notification",
+      "task": "Push notification system",
+      "tags": "Feature"
+    },
+    {
+      "description": "Verify 'Offline mode' task in 'In Progress' column (Mobile Application)",
+      "navigation": "Mobile Application Native",
+      "column": "In Progress (1)Offline",
+      "task": "Offline mode",
+      "tags": "High Priority"
+    },
+    {
+      "description": "Verify 'Offline mode' task in 'In Progress' column (Mobile Application)",
+      "navigation": "Mobile Application",
+      "column": "In Progress (1)Offline",
+      "task": "Offline mode",
+      "tags": "Feature"
+    },
+    {
+      "description": "Verify 'App icon design' task in 'Done' column (Mobile Application)",
+      "navigation": "Mobile Application",
+      "column": "Done (1)App icon design",
+      "task": "App icon design",
+      "tags": "Design"
+    }
+]
+  
